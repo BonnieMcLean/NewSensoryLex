@@ -1,6 +1,9 @@
-lexemeID	usageID	lexeme	gloss	pos	gloss-ortho	definition	definition-eng	date	source	source-date
-1	1	gotyagotya	jumbled up	adverb	入り乱れる	種々の物が群がり集まり、混雑しているさま。きちんとしていないで、秩序なく入り乱れているさまを表わす語。ごたごた。	A state where various things gather and crowd together, without being neat, and without order. It is a term used to express a disorderly and chaotic state.	1758	日本国語大辞典	洒落本・水月ものはなし (中・下粋)
-2	1	gosyagosya	mix	adverb	かきまぜる	ものをかきまぜるさまを表わす語	A word that expresses a way of mixing things together		日本国語大辞典	
-1	2	gotyagotya	crowded	adjectival verb	混雑し乱れる	無秩序に混雑し乱れるさま。ごちゃくちゃ。	a state of disorderly and chaotic crowding	1771	日本国語大辞典	談義本・教訓乗合船 (四・作者の発明)
-1	3	gotyagotya	disordered	noun	入り乱れる	無秩序に入り乱れること。	jumbled up in a disordered manner	1709	日本国語大辞典	浄瑠璃・淀鯉出世滝徳 (上)
-4	1									
+lexemeID	lexeme	usageID	gloss	pos	date	source-date
+1	tyikatyika	1	prickling	ideo		
+2	hirihiri	1	prickling	ideo		
+3	iraira	1	prickling	ideo		
+4	serasera	1	prickling	ideo		
+5	egarai	1	prickling	adj		
+6	hasyikai	1	prickling	adj		
+7	kaii	1	prickling	adj		
+8	gowagowa	1	prickling	ideo		
