@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
+<style>
+.header { grid-area: header; }
+.metadat { grid-area: meta; }
+.uses { grid-area: main; }
+.domains { grid-area: domains; }
+.figs { grid-area: figs; }
+.stats { grid-area: stats; }
+.footer { grid-area: footer; }
+
+a {
+  color: #4682B4;
+}
+
+button {
+    background-color:#D3D3D3;
+    color: black;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'meta header header header header domains'
+    'main main main main main main'
+	'stats stats stats figs figs figs '
+    'footer footer footer footer footer footer';
+  gap: 2px;
+  padding: 4px;
+
+}
+
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  vertical-align: top;
+  padding: 2px 0;
+  font-size: 20px;
+}
+
+. grid-container > header {
+
+  align: center;
+
+}
+
+th {
+  text-align: left;
+  font-weight: normal;
+}
+
+h1,h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+img { display:block; }  
+
+
+
+</style>
+</head>
+<body>
+<div class="grid-container">
+  <div class="meta">
+  <h3 style="margin-bottom: 0; margin-top: 0;">Japanese (Tokyo)</h3>
+  <p style="margin-bottom: 0; margin-top: 0;"><strong>toky1238</strong></p>
+  </div>
+  <div class="header">
+    <h1 align="center" >gotyagotya</h1>
+    <p align="center" style="margin-bottom: 0; margin-top: 0;"><i>gotʃagotʃa</i></p>
+    <h3 align="center">'jumbled up'</h3>
+  </div>
+  <div class="uses">
+   <ol>
+   <div class="trial">
+   <li>
+   <p><strong>adverb</strong></p>
+   <p align="right" style="font-size: 22px">1758, <a>洒落本・水月ものはなし (中・下粋)</a></p>
+   <p>種々の物が群がり集まり、混雑しているさま。きちんとしていないで、秩序なく入り乱れているさまを表わす語。ごたごた。</p>
+   <p>A state where various things gather and crowd together, without being neat, and without order. It is a term used to express a disorderly and chaotic state.</p>
+   <p align="right"> — Japanese National Dictionary (日本国語大辞典)</p>
+   <p align="right"><button type="button">&rArr; Examples</button></p>
+   </li>
+   </div>
+   <li>
+   <p><strong>adjectival verb</strong></p>
+   <p align="right" style="font-size: 22px">1771, <a>談義本・教訓乗合船 (四・作者の発明)</a></p>
+   <p>無秩序に混雑し乱れるさま。ごちゃくちゃ。</p>
+   <p>A state of disorderly and chaotic crowding.	</p>
+   <p align="right"> — Japanese National Dictionary (日本国語大辞典)</p>
+   <p align="right"><button type="button">&rArr; Examples</button></p>
+   </li>
+   <li>
+   <p><strong>noun</strong></p>
+   <p align="right" style="font-size: 22px">1709, <a>浄瑠璃・淀鯉出世滝徳 (上)</a></p>
+   <p>無秩序に入り乱れること。</p>
+   <p>Jumbled up in a disordered manner.</p>
+   <p align="right"> — Japanese National Dictionary (日本国語大辞典)</p>
+   <p align="right"><button type="button">&rArr; Examples</button></p>
+   </li>
+   </ol>
+  </div>  
+  <div class="domains">
+    <p align="right"><button type="button" style="font-size: 20px;">Sound</button>  <button type="button" style="font-size: 25.6px;">Movement</button> <br> <button type="button" style="font-size: 15.2px;">Shape</button>  <button type="button" style="font-size: 14.4px;">Texture</button>
+  <br><button type="button" style="font-size: 12.8px;">Emotion</button>
+  </p>
+  </div>
+  <div class="figs">
+  <img align="right" src="../../sensory_ratings/images/1.svg" alt="HTML5 Icon" width="300" height="300">
+  </div>
+  <div class="stats">
+	<p><strong>Guessability: .59 <br></strong><a style="font-size: 14px">(Thompson et al. 2023)</a></p>
+  </div>
+  <div class="footer">
+  <p align="right"><a>gosyagosya 'mix'</a></p>
+  </div>
+</div>
+</body>
+</html>
+
+

@@ -1,0 +1,19 @@
+lexemeID	identifier	domain	mean_rating	source
+4	kachikachi_HARD	sound	4.89473684210526	McLean et al. 2023
+4	kachikachi_HARD	movement	3.68421052631579	McLean et al. 2023
+4	kachikachi_HARD	shape	2.33333333333333	McLean et al. 2023
+4	kachikachi_HARD	texture	4.10526315789474	McLean et al. 2023
+4	kachikachi_HARD	light	0.388888888888889	McLean et al. 2023
+4	kachikachi_HARD	interoception	0.75	McLean et al. 2023
+4	kachikachi_HARD	pain	0.947368421052632	McLean et al. 2023
+4	kachikachi_HARD	smell	0.333333333333333	McLean et al. 2023
+4	kachikachi_HARD	taste	0.277777777777778	McLean et al. 2023
+1	gojagoja2_JUMBLED UP	sound	2.57894736842105	McLean et al. 2023
+1	gojagoja2_JUMBLED UP	movement	3.21052631578947	McLean et al. 2023
+1	gojagoja2_JUMBLED UP	shape	1.89473684210526	McLean et al. 2023
+1	gojagoja2_JUMBLED UP	texture	1.78947368421053	McLean et al. 2023
+1	gojagoja2_JUMBLED UP	light	0.222222222222222	McLean et al. 2023
+1	gojagoja2_JUMBLED UP	interoception	1.44736842105263	McLean et al. 2023
+1	gojagoja2_JUMBLED UP	pain	0.166666666666667	McLean et al. 2023
+1	gojagoja2_JUMBLED UP	smell	0.166666666666667	McLean et al. 2023
+1	gojagoja2_JUMBLED UP	taste	0.555555555555556	McLean et al. 2023

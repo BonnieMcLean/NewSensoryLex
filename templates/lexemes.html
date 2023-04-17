@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1" charset="utf-8">
+<title>LEXEME</title>
+<style>
+.header { grid-area: header; }
+.metadat { grid-area: meta; }
+.uses { grid-area: main; }
+.domains { grid-area: domains; }
+.figs { grid-area: figs; }
+.stats { grid-area: stats; }
+.footer { grid-area: footer; }
+
+a {
+  color: #4682B4;
+}
+
+button {
+    background-color:#D3D3D3;
+    color: black;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'meta header header header header domains'
+    'main main main main main main'
+	'stats stats stats figs figs figs '
+    'footer footer footer footer footer footer';
+  gap: 2px;
+  padding: 4px;
+
+}
+
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  vertical-align: top;
+  padding: 2px 0;
+  font-size: 20px;
+}
+
+. grid-container > header {
+
+  align: center;
+
+}
+
+th {
+  text-align: left;
+  font-weight: normal;
+}
+
+h1,h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+img { display:block; }  
+
+
+
+</style>
+</head>
+<body>
+<div class="grid-container">
+  <div class="meta">
+  <h3>LANGUAGE_NAME</h3>
+  <p style="margin-bottom: 0; margin-top: 0;"><strong>GLOTTOCODE</strong></p>
+  </div>
+  <div class="header">
+    <h1 align="center">LEXEME</h1>
+    <p align="center" style="margin-bottom: 0; margin-top: 0;">ORTHOGRAPHY</p>
+	<p align="center" style="margin-bottom: 0; margin-top: 0;"><i>IPA</i></p>
+
+    <h3 align="center">GLOSS</h3>
+  </div>
+  <div class="uses">
+   <ol>
+   <div class="usage">
+   <li>
+   <p><strong>adverb</strong></p>
+   <p align="right" style="font-size: 22px">DATE, <a>SOURCE_DATE</a></p>
+   <p>DEFINITION</p>
+   <p>DEFINITION-ENG</p>
+   <p align="right"> — <a>SOURCE</a></p>
+   <p align="right"><button type="button">&rArr; Examples</button></p>
+   </li>
+   </div>
+   </ol>
+  </div>  
+  <div class="domains">
+    <p align="right"><button type="button" style="font-size: ??px;">DOMAIN</button></p>
+  </div>
+  <div class="figs">
+  <img align="right" src="../../sensory_ratings/images/LEXEMEID.svg" alt="HTML5 Icon" width="300" height="300">
+  </div>
+  <div class="stats">
+	<p><strong>Guessability: GUESSABILITY <br></strong><a style="font-size: 14px">SOURCE_GUESSABILITY</a></p>
+	<p><strong>Iconicity rating: ICONICITY_RATING <br></strong><a style="font-size: 14px">SOURCE_ICONICITY_RATING</a></p>
+  </div>
+  <div class="footer">
+  </div>
+</div>
+</body>
+</html>
+
+
