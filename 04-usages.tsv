@@ -1,9 +1,10 @@
-lexemeID	lexeme	usageID	gloss	pos	date	source-date
-1	tyikatyika	1	prickling	ideo		
-2	hirihiri	1	prickling	ideo		
-3	iraira	1	prickling	ideo		
-4	serasera	1	prickling	ideo		
-5	egarai	1	prickling	adj		
-6	hasyikai	1	prickling	adj		
-7	kaii	1	prickling	adj		
-8	gowagowa	1	prickling	ideo		
+lexemeID	lexeme	usageID	gloss	pos	date	place	notes	source-date
+1	tyikatyika	1	prickling	ideo	1919	Okinawa	the word doesn’t originate in Okinawa, but this usage does. The date is the date of the first appearance of this word in Standard Japanese, we don’t have the records for Okinawa. 	
+2	hirihiri	1	prickling	ideo	1820	Tokyo		
+3	iraira	1	prickling	ideo	1406	Kyoto	a reduplication of the word for thorn	
+4	serasera	1	prickling	ideo	1908	Tokyo		
+5	egarai	1	prickling	adj	1642	Kyoto		
+6	hasyikai	1	prickling	adj	1241	Kyoto	related to the noun for measles (hasyika)	
+7	kaii	1	prickling	adj	1595	Kyoto	kayui is older though	
+8	gowagowa	1	prickling	ideo	?	Kanagawa		
+9	igaiga	1	prickling	ideo	1965	Tokyo		
