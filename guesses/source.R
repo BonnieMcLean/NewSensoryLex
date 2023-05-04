@@ -7,6 +7,7 @@ source%>%
   rowwise()%>%
   mutate(lexeme=str_split(identifier,"_")[[1]][1])%>%
   filter(method=="guesses")%>%
-  select(lexeme,score)->processed
+  mutate(conceptID=1)%>%
+  select(lexeme,score,conceptID)->processed
 
 write_csv(processed,"guesses.csv")
