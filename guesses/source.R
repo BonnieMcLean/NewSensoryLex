@@ -1,15 +1,12 @@
 library(tidyverse)
-library(httr)
 
-# when we make this public, then get the guesses through the public url
-
-
-source <- read_csv("guessing_results.csv")
+source <- read_csv("https://raw.githubusercontent.com/BonnieMcLean/IconicityMeasuresJaponic/main/GuessingRatingScores.csv")
 
 source%>%
-  filter(identifier=="gojagoja2_JUMBLED UP",method=="audio")%>%
-  mutate(paradigmID=1,lexemeID=1,source="Thompson et al. 2023 audio condition")%>%
-  select(paradigmID,lexemeID,identifier,guess=participant_grade,informantID=ProlificID,source)%>%
-  unique()->processed
+  filter(grepl("PRICKLING",identifier))%>%
+  rowwise()%>%
+  mutate(lexeme=str_split(identifier,"_")[[1]][1])%>%
+  filter(method=="guesses")%>%
+  select(lexeme,score)->processed
 
 write_csv(processed,"guesses.csv")

@@ -1,30 +1,9 @@
-paradigmID,lexemeID,identifier,guess,informantID,source
-1,1,gojagoja2_JUMBLED UP,correct,5d9b6d6424a6e302ae56c844,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,5f200f43591b360416b211b9,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,incorrect,5d8a6dabdf19000016e6822f,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,incorrect,62fb801ab8888b38a60b0700,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,5fca463f97b7d6606b30bb61,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,5cee7aab0afd6e0018a9eb58,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,incorrect,6106b95373df4bdda50006af,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,60e4836710971ddb536eee19,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,incorrect,5e53df2d8b62b33daf126ecd,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,5f69cc6f69949e00098d8295,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,5c6099f292e37d00012f484b,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,incorrect,615f0c2cab82bb38958bfd7f,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,incorrect,59bb884a3c45a10001ccc4f7,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,incorrect,596e1cc639e9d00001b7bb84,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,60e0bf29c82295dfeed33944,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,incorrect,5ed1566237d27008e6239275,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,575eac46862b0f0006cd7dee,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,incorrect,614ee866eb22f6b60f499a91,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,5a0c4184fe645f0001e9f5dd,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,5baa72a49d955f000147e406,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,5ef7783026861249d8eb58ef,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,incorrect,5ea1dc176205ad0c7c941ca1,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,5ee1216a2a8a214e2ac6fb8b,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,incorrect,613dd5fb512aabe8d5d32393,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,5d920df12b679a00182bbc73,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,559bbbdafdf99b7ce19d5b3d,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,incorrect,5ed403a89542210ab77530b7,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,596155a998cf77000106f8d8,Thompson et al. 2023 audio condition
-1,1,gojagoja2_JUMBLED UP,correct,5a8aaec48fe2dc00010625fe,Thompson et al. 2023 audio condition
+lexeme,score
+igaiga,0.8
+serasera,0.6333333333333333
+hasyikai,0.5666666666666667
+iraira,0.7
+egarai,0.5333333333333333
+tyikatyika,0.7931034482758621
+hirihiri,0.5862068965517241
+kaii,0.6551724137931034
