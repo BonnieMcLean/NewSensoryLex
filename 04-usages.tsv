@@ -1,10 +1,12 @@
-lexemeID	lexeme	usageID	gloss	pos	date	place	notes	source-date
-1	tyikatyika	1	prickling	ideo	1919	Okinawa	the word doesn’t originate in Okinawa, but this usage does. The date is the date of the first appearance of this word in Standard Japanese, we don’t have the records for Okinawa. 	
-2	hirihiri	1	prickling	ideo	1820	Tokyo	interesting semantic changes here; add other usages later	
-3	iraira	1	prickling	ideo	1406	Kyoto	a reduplication of the word for thorn	
-4	serasera	1	prickling	ideo	1908	Tokyo		
-5	egarai	1	prickling	adj	1642	Kyoto		
-6	hasyikai	1	prickling	adj	1241	Kyoto	related to the noun for measles (hasyika)	
-7	kaii	1	prickling	adj	1595	Kyoto	kayui is older though	
-8	gowagowa	1	prickling	ideo	?	Kanagawa		
-9	igaiga	1	prickling	ideo	1965	Tokyo		
+lexemeID	lexeme	usageID	gloss	pos	date	place	def	def-eng	notes	source-date
+6	hasyikai	1	prickling	adj	1241	Kyoto			related to the noun for measles (hasyika)	
+3	iraira	1	prickling	ideo	1406	Kyoto			a reduplication of the word for thorn	
+7	kaii	1	prickling	adj	1595	Kyoto			kayui is older though	
+5	egarai	1	prickling	adj	1642	Kyoto				
+2	hirihiri	1	prickling	ideo	1820	Tokyo			interesting semantic changes here; add other usages later	
+4	serasera	1	prickling	ideo	1908	Tokyo				
+1	tyikatyika	1	dazzling	ideo	1901	Tokyo	強い光が目を刺激するさまを表わす語。また、一般に暗い中に目立つさまをもいう	The feeling of having your eyes stimulated by a strong light, as well as generally standing out in darkness.		仰臥漫録〈正岡子規〉二
+1	tyikatyika	2	prickling	ideo	1919	Tokyo	小さな刺激がこきざみに連続するさまを表わす語	the state of continuous small irritations or pricking sensations 		或る女〈有島武郎〉前・七
+9	igaiga	1	prickling	ideo	1965	Tokyo				
+8	gowagowa	1	prickling	ideo	?	Kanagawa				
+8	gowagowa	2	stiff	ideo	1699	Kyoto	紙、革、布などが、かたくこわばっていて、しなやかでないさま、また、こわばった紙や布などがすれあってたてる音を表わす語。	describes the state of something such as paper, leather, or cloth being stiff, rigid, and not flexible. It can also describe the sound that occurs when stiff paper or cloth rub against each other. 	can even be used as a noun for starch (e.g. コワコワを着て涼しがる, wearing starched clothes is cool)	
